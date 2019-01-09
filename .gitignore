@@ -2,3 +2,5 @@
 *.exe
 *.pch
 *.obj
+*.VC.opendb
+*.VC.db files
