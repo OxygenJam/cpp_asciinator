@@ -1,0 +1,10 @@
+﻿  asciinator.cpp
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(96): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(99): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zird.triztan.e.driz\desktop\free-time projects\c++\asciinator\asciinator\asciinator.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  asciinator.vcxproj -> C:\Users\zird.triztan.e.driz\Desktop\Free-Time Projects\C++\asciinator\x64\Debug\asciinator.exe

@@ -4,3 +4,4 @@
 *.obj
 *.VC.opendb
 *.VC.db files
+*.dll
